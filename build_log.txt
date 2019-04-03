@@ -42,9 +42,9 @@
 init:
 
 -deps-jar-init:
+   [delete] Deleting: /home/fsa01/Java/ProjektyDoNauki/MOOC/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week7-week7_08.Airport/build/built-jar.properties
 
 deps-jar:
-    [mkdir] Created dir: /home/fsa01/Java/ProjektyDoNauki/MOOC/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week7-week7_08.Airport/build
 
 -warn-already-built-jar:
 [propertyfile] Updating property file: /home/fsa01/Java/ProjektyDoNauki/MOOC/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week7-week7_08.Airport/build/built-jar.properties
@@ -56,7 +56,6 @@ deps-jar:
 -verify-automatic-build:
 
 -pre-pre-compile:
-    [mkdir] Created dir: /home/fsa01/Java/ProjektyDoNauki/MOOC/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week7-week7_08.Airport/build/classes
 
 -pre-compile:
 
@@ -65,33 +64,25 @@ deps-jar:
 -compile-depend:
 
 -do-compile:
-    [mkdir] Created dir: /home/fsa01/Java/ProjektyDoNauki/MOOC/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week7-week7_08.Airport/build/empty
-    [mkdir] Created dir: /home/fsa01/Java/ProjektyDoNauki/MOOC/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week7-week7_08.Airport/build/generated-sources/ap-source-output
-    [javac] Compiling 7 source files to /home/fsa01/Java/ProjektyDoNauki/MOOC/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week7-week7_08.Airport/build/classes
+    [javac] Compiling 1 source file to /home/fsa01/Java/ProjektyDoNauki/MOOC/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week7-week7_08.Airport/build/classes
     [javac] warning: [options] bootstrap class path not set in conjunction with -source 1.6
     [javac] 1 warning
-     [copy] Copying 1 file to /home/fsa01/Java/ProjektyDoNauki/MOOC/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week7-week7_08.Airport/build/classes
 
 -post-compile:
 
 compile:
 
 -pre-pre-compile-test:
-    [mkdir] Created dir: /home/fsa01/Java/ProjektyDoNauki/MOOC/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week7-week7_08.Airport/build/test/classes
 
 -pre-compile-test:
 
 -compile-test-depend:
 
 -do-compile-test:
-    [javac] Compiling 1 source file to /home/fsa01/Java/ProjektyDoNauki/MOOC/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week7-week7_08.Airport/build/test/classes
-    [javac] warning: [options] bootstrap class path not set in conjunction with -source 1.6
-    [javac] 1 warning
-     [copy] Copying 1 file to /home/fsa01/Java/ProjektyDoNauki/MOOC/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week7-week7_08.Airport/build/test/classes
 
 -post-compile-test:
 
 compile-test:
 
 BUILD SUCCESSFUL
-Total time: 1 second
+Total time: 0 seconds

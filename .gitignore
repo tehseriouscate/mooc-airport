@@ -1,6 +1,11 @@
-/build
-/dist
-/nbproject
-/.idea
-/out
-/test
+**/build
+**/dist
+**/nbproject
+**/.idea
+**/out
+**/lib
+build.xml
+build_errors.txt
+build_log.txt
+manifest.mf
+week7-week7_08.Airport.iml
